@@ -15,6 +15,8 @@
 
 Analista de Testes - QA | Apaixonado por Qualidade de Software que impactam positivamente a vida de milhões de pessoas!
 
+🐞 Caçador de bugs, guardião da qualidade e parceiro do time: antecipo problemas e reforço a qualidade reduzindo dor de cabeça em produção.
+
 Certificado: CTFL | SFC | CTFL-AT | SFPC | DEPC
 
 Valorizo profundamente a área de Qualidade de Software por conectar-me a profissionais excepcionais e permitir minha contribuição no desenvolvimento de aplicações tecnológicas. Meu objetivo é agregar qualidade e minimizar o impacto negativo para pessoas e organizações.
