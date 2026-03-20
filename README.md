@@ -17,7 +17,7 @@ Analista de Testes - QA | Apaixonado por Qualidade de Software que impactam posi
 
 🐞 Caçador de bugs, guardião da qualidade e parceiro do time: antecipo problemas e reforço a qualidade reduzindo dor de cabeça em produção.
 
-Certificado: CTFL | SFC | CTFL-AT | SFPC | DEPC
+Certificado: AWS Certified | CTFL | CTFL-AT | DEPC | SFPC |
 
 Valorizo profundamente a área de Qualidade de Software por conectar-me a profissionais excepcionais e permitir minha contribuição no desenvolvimento de aplicações tecnológicas. Meu objetivo é agregar qualidade e minimizar o impacto negativo para pessoas e organizações.
 
@@ -43,3 +43,5 @@ E-commerce (Jüssi | Whirlpool - Direto na Loja, colab, Compra Certa, Brastemp, 
 ###
 
 Ricardo Santos QA :wave: [about.me](https://santosqa.github.io)
+Quality Assurance | Cypress | RobotFramework | QA Engineer
+
